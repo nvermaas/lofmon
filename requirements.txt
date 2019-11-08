@@ -19,7 +19,7 @@ django-cors-headers==2.0.2
 django-filter==1.0.4
 django-polymorphic==2.0.2
 django-webpack-loader==0.4.1
-djangorestframework==3.5.3
+djangorestframework==3.9.1
 docutils==0.13.1
 dsmr-parser==0.13
 future==0.18.1
