@@ -3,7 +3,7 @@ alta-interface==1.0.0.dev0
 arrow==0.15.2
 atdb-interface==1.0.4
 atdb-services==1.0.6
-Babel==2.4.0
+Babel==2.9.1
 binaryornot==0.4.4
 blinker==1.4
 boto==2.44.0
