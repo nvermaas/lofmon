@@ -23,7 +23,7 @@ djangorestframework==3.5.3
 docutils==0.13.1
 dsmr-parser==0.13
 future==0.18.1
-httpie==0.9.9
+httpie==3.1.0
 idna==2.7
 imagesize==0.7.1
 Jinja2==2.9.6
